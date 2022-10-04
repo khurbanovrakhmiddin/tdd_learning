@@ -1,0 +1,1 @@
+class Post{ final String title; final String body; final String id; final int userId; Post({required this.title,required this.body,required this.id,required this.userId});}
